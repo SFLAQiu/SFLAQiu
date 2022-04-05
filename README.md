@@ -6,21 +6,17 @@
 </h1>
 
 <!-- 敲代码的图片 -->
-<!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/SFLAQiu/photos/images/202108300019556.gif"/></div>-->
+<div align="center" ><img order-radius="100px" src="http://blog.thankbabe.com/imgs/github-contribution-grid-snake.svg"/></div>
 <br>
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.thankbabe.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://blog.thankbabe.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blueviolet"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=SFLAQiu" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/SFLAQiu/SFLAQiu/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
-
-
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SFLAQiu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
