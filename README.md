@@ -19,19 +19,6 @@
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/SFLAQiu/SFLAQiu/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 
-#  🙋 Hello
-
-
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/SFLAQiu/photos/images/202110311924844.png" /></div>
-
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/SFLAQiu/SFLAQiu/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-
-# 🚀 Actions
-
-
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
@@ -46,7 +33,6 @@
 </div>
 <br>
 
-<!-- 最近博客和豆瓣动态 -->
 <table align="center">
 <tr>
 <td valign="top">    
@@ -62,9 +48,7 @@
 <!-- END_SECTION:blog -->
   
 </td>
-    
 <td valign="top">
-  
 ### 🤾‍♂️ Funny Soul
 
 * <a href='http://blog.thankbabe.com/posts/2020-04-06-product-do-task/' target='_blank'>大话业务场景与解决方案：做任务</a>
@@ -75,28 +59,6 @@
 </td> 
 </tr>
 </table>
-
 </td>
 </tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=SFLAQiu&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
 </table>
