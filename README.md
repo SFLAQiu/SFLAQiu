@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);生活除了代码，还有诗和远方  !&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);生活除了代码，还有诗和远方!&center=true&size=27"> </a> </h1>
 
 <div align="center"> <img src="https://metrics.lecoq.io/SFLAQiu?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
