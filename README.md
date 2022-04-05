@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);生活除了代码，还有诗和远方!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%2C%20World!%22;生活除了代码，还有诗和远方~&center=true&size=27">
   </a>
 </h1>
 
@@ -13,10 +13,9 @@
 <div align="center">
   <a href="https://blog.thankbabe.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blueviolet"></a>&emsp;
 <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=SFLAQiu" alt="访客统计" /></div>
+  <a href="https://wakatime.com/@Tian"><img src="https://wakatime.com/badge/user/938325ad-aa1b-4e8a-8efd-04fff7660bd5.svg" alt="Total time coded since Dec 13 2019" /></a> &emsp;
+</div>
 
-<!-- 贪吃蛇代码贡献图 -->
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/SFLAQiu/SFLAQiu/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=SFLAQiu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
@@ -24,8 +23,8 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SFLAQiu&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFLAQiu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=SFLAQiu&hide_title=true&hide_border=true&show_icons=true&line_height=21" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SFLAQiu&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
 </div>
 <br>
 
